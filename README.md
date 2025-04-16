@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project is a **Todo App** built with **Next.js 15**, **React**, **TypeScript**, and **Tailwind CSS**. It uses **Axios** for making HTTP requests and **React Query** for data fetching and caching. This app allows users to view, add, and delete tasks in their todo list.
+This project is a **Todo App** built with **Next.js 15**, **React**, **TypeScript**, and **Tailwind CSS**. This app allows users to view, add, and delete tasks in their todo list.
 
 ## Project Structure
 
